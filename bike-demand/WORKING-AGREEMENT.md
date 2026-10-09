@@ -1,9 +1,9 @@
 # Team working agreement
 
-- Team and repository (`mlops-<session>-<team-name>-bike-demand`): ________
-- Members: ________
-- Current driver / reviewer / evidence recorder: ________
-- Fourth member's temporary responsibility, if applicable: ________
+- Team and repository (`mlops-<session>-<team-name>-bike-demand`): mlops-thu1-le17onchangedepoque-bike-demand
+- Members: ilir78 aminezdi
+- Current driver / reviewer / evidence recorder: ilir78 aminezdi
+- Fourth member's temporary responsibility, if applicable: N/A
 
 ## Workflow
 
@@ -16,6 +16,6 @@
 
 ## Support and handover
 
-- Approved support route / supported workstation: ________
-- How to report a setup or repository-access blocker: ________
-- Next driver and unfinished work: ________
+- Approved support route / supported workstation: ilir78 / aminezdi
+- How to report a setup or repository-access blocker: N/A
+- Next driver and unfinished work: N/A
